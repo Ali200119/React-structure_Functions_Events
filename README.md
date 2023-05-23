@@ -1,1 +1,1 @@
-# React-structure_Functions_Events
+Homework for Wednesday (24.05.2023)
